@@ -61,7 +61,7 @@ RTT = 3.935659
 ---
 
 ## Analisis Gambar
-
+![Type of Data Deliveries](img5.png)
 ### Type of Data Deliveries
 
 Gambar tersebut menjelaskan jenis-jenis pengiriman data dalam jaringan komputer berdasarkan lapisan OSI, khususnya dalam proses komunikasi dari satu perangkat ke perangkat lain melalui internet. Berikut adalah proses yang terjadi dalam gambar:
