@@ -23,21 +23,21 @@ Kelas	: 2 D4 IT A
 - Filter hasil dengan menggunakan "http" di kolom filter
 - Cari packet HTTP Request dengan keterangan metode GET/POST
 - Temukan kolom Source (untuk IP Client) dan Destination (untuk IP Server)
-
+  ![IP Client and Server](img1.png)
 > **Pada gambar tersebut, dapat disimpulkan bahwa IP Client adalah 145.254.160.237 dan IP Server adalah 65.208.228.223**
 
 ### Versi HTTP
 
 - Pilih salah satu packet HTTP Request
 - Pada packet details, temukan kolom ‘Request Version’ pada header Hypertext Transfer Protocol
-
+  ![Versi HTTP](img2.png)
 > **Pada gambar tersebut, dapat disimpulkan bahwa versi http adalah HTTP/1.1**
 
 ### Waktu Client Mengirim Request
 
 - Pilih salah satu packet HTTP Request
 - Perhatikan kolom Time pada packet
-
+  ![Waktu Client Mengirim Request](img3.png)
 > **Pada gambar tersebut dapat disimpulkan bahwa waktu client mengirim request adalah 0.911310 detik setelah capture dilakukan**
 
 ### Waktu Server Menerima HTTP Request dari Client
@@ -45,7 +45,7 @@ Kelas	: 2 D4 IT A
 - Pilih packet HTTP Response yang sama seperti sebelumnya
 - Perhatikan kolom Time
 - Perhatikan waktu saat server mengirimkan respons
-
+  ![Waktu Server Menerima HTTP Request](img4.png)
 > **Pada gambar tersebut, dapat disimpulkan bahwa server menerima http request dari client pada detik ke 4.846969 setelah capture dilakukan**
 
 ### Waktu yang Dibutuhkan untuk Transfer dan Response dari Client ke Server
