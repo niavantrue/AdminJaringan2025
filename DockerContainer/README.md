@@ -15,14 +15,17 @@ Kelas	: 2 D4 IT A
 
 ### Docker
 ![docker](/DockerContainer/img/docker.png)
+
 Pada project ini, Docker digunakan untuk menjalankan MySQL secara terisolasi tanpa perlu instalasi langsung ke OS. Docker diinstal dari situs resminya (https://www.docker.com), atau melalui Microsoft Store.
 
 ### Power BI
 ![powerbi](/DockerContainer/img/powerbi.png)
+
 Power BI digunakan sebagai software untuk visualisasi dan analisis data. Power BI Desktop diinstal dari Microsoft Store atau situs resmi Power BI (https://powerbi.microsoft.com) 
 
 ### MySQL ODBC Driver
 ![odbc](/DockerContainer/img/odbc.png)
+
 Dengan ODBC, Power BI dapat terhubung langsung ke database MySQL untuk membaca data. MySQL ODBC Driver versi 64-bit diunduh dari situs resmi MySQL.
 
 ---
